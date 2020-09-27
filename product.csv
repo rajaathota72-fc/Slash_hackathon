@@ -1,0 +1,5 @@
+﻿Products,Stock,Threshold,Wholesale price,Minimum Quantity,Maximum Quantity,Min SKU
+Shoe Nike,100,12, £20.00 ,10,20,25
+Shoe Rebook,50,12, £15.00 ,5,10,30
+Shoe Puma,10,12, £12.00 ,5,10,20
+Shoe Steel,60,12, £15.00 ,10,20,25
